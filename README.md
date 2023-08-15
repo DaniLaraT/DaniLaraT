@@ -1,5 +1,6 @@
 # 💫 About Me:
-Desarrolladora Front-End, siempre en constante aprendizaje.<br>Como Nutricionista mi desarrollo profesional fue emprender creando programas Excel que ayudaran a mis colegas a mejorar su productividad en consulta. Al sentirme cómoda con la lógica de Excel y ver como mi trabajo generaba una buena acogida en mis colegas, mi amor por el aprendizaje busco mucho más allá. Hoy siendo desarrolladora, teniendo muchas más Herramientas respecto al desarrollo de plataformas Web y además experiencia con mi emprendimiento en adecuarme a las necesidades del cliente quiero seguir generando productos amigables para el usuario y a la vez eficientes para las distintas empresas que utilizan plataformas Web.<br>
+Desarrolladora Front-End, siempre en constante aprendizaje.
+Como Nutricionista mi desarrollo profesional fue emprender creando programas Excel que ayudaran a automatizar calculos, estadisticas y recopilacion de informacion para mis colegas. Al sentirme cómoda con la lógica de Excel y ver como mi trabajo generaba una buena acogida, mi amor por el aprendizaje busco mucho más allá. Hoy siendo desarrolladora, teniendo muchas más Herramientas respecto al desarrollo de plataformas Web y además experiencia con mi emprendimiento en adecuarme a las necesidades del cliente quiero seguir generando productos amigables para el usuario y a la vez eficientes para las distintas empresas que utilizan plataformas Web.<br>
 
 
 ## 🌐 Socials:
